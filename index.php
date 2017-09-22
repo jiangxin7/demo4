@@ -19,7 +19,7 @@ class indexcontroller {
     public function index(){
 
     }
-    public function tes(){
+    public function t(){
         
     }
 
