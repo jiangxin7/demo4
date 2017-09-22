@@ -7,6 +7,7 @@
  */
 
 class indexcontroller {
+
     private $name;
     private $password;
     public function __construct()
@@ -18,5 +19,6 @@ class indexcontroller {
     public function index(){
 
     }
+
 
 }
