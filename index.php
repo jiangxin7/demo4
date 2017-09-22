@@ -23,5 +23,8 @@ class indexcontroller {
         
     }
 
+    public function tallname(){
+
+    }
 
 }
