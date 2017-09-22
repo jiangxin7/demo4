@@ -6,3 +6,9 @@
  * Time: 10:58
  */
 
+class indexcontroller {
+    public function index(){
+
+    }
+
+}
