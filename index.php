@@ -19,10 +19,10 @@ class indexcontroller {
     public function index(){
 
     }
-    public function te(){
-        
-    }
 
+    public function te(){
+
+    }
     public function tallname(){
 
     }
