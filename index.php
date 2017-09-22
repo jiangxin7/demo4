@@ -7,11 +7,21 @@
  */
 
 class indexcontroller {
+
+    private $name;
+    private $password;
+    public function __construct()
+    {
+
+    }
+
+
     public function index(){
 
     }
     public function test(){
         
     }
+
 
 }
