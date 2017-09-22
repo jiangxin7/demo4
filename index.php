@@ -6,7 +6,17 @@
  * Time: 10:58
  */
 
+class indexcontroller {
+    private $name;
+    private $password;
+    public function __construct()
+    {
+
+    }
 
 
+    public function index(){
 
+    }
 
+}
