@@ -19,6 +19,9 @@ class indexcontroller {
     public function index(){
 
     }
+    public function test(){
+        
+    }
 
     public function tallname(){
 
