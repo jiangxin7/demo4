@@ -26,5 +26,8 @@ class indexcontroller {
     public function tallname(){
 
     }
+    public function test2(){
+
+    }
 
 }
